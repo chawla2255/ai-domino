@@ -2,6 +2,8 @@
 
 Which public companies get hurt if OpenAI's compute spending falls? This is a live map of that exposure, drawn as a transit system. Each dependency path is a line out of the OpenAI terminus, companies are stations, and fare zones show how much of each company's revenue rides on OpenAI. Every exposure number links to the filing or report it came from.
 
+**Live:** https://the-ai-domino.netlify.app
+
 ![The AI Domino](docs/screenshot.png)
 
 ## What it shows
