@@ -1,0 +1,74 @@
+{
+ "asOf": "2026-10-12T20:04:08Z",
+ "label": "Oct 12, 2026 close",
+ "source": "Yahoo chart (price); market cap = price x baseline share count; SEC XBRL (TTM revenue)",
+ "refreshedAt": "2026-10-12T21:09:21Z",
+ "quotes": {
+  "CRWV": {
+   "price": 80.26,
+   "mcap": 44.27,
+   "ttm": 7.59,
+   "q": "Q3'25–Q2'26"
+  },
+  "ORCL": {
+   "price": 137.39,
+   "mcap": 416.5,
+   "ttm": 71.776,
+   "q": "FQ2'26–FQ1'27"
+  },
+  "MSFT": {
+   "price": 541.15,
+   "mcap": 4018.0,
+   "ttm": 331.839,
+   "q": "FY26"
+  },
+  "GOOGL": {
+   "price": 352.72,
+   "mcap": 4314.0,
+   "ttm": 445.866,
+   "q": "Q3'25–Q2'26"
+  },
+  "NVDA": {
+   "price": 226.32,
+   "mcap": 5454.0,
+   "ttm": 302.969,
+   "q": "FQ3'26–FQ2'27"
+  },
+  "AMD": {
+   "price": 594.24,
+   "mcap": 970.1,
+   "ttm": 41.305,
+   "q": "Q3'25–Q2'26"
+  },
+  "AVGO": {
+   "price": 354.73,
+   "mcap": 1693.0,
+   "ttm": 89.104,
+   "q": "FQ4'25–FQ3'26"
+  },
+  "ARM": {
+   "price": 255.24,
+   "mcap": 271.6,
+   "ttm": 5.156,
+   "q": "FQ2'26–FQ1'27"
+  },
+  "TSM": {
+   "price": 444.35,
+   "mcap": 2306.0,
+   "ttm": 142.93,
+   "q": "Q3'25–Q2'26"
+  },
+  "DELL": {
+   "price": 576.76,
+   "mcap": 366.5,
+   "ttm": 151.197,
+   "q": "FQ3'26–FQ2'27"
+  },
+  "ANET": {
+   "price": 210.88,
+   "mcap": 266.0,
+   "ttm": 10.541,
+   "q": "Q3'25–Q2'26"
+  }
+ }
+}
