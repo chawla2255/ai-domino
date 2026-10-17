@@ -2,7 +2,7 @@
  "asOf": "2026-10-12T20:04:08Z",
  "label": "Oct 12, 2026 close",
  "source": "Yahoo chart (price); market cap = price x baseline share count; SEC XBRL (TTM revenue)",
- "refreshedAt": "2026-10-12T21:09:21Z",
+ "refreshedAt": "2026-10-12T23:48:40Z",
  "quotes": {
   "CRWV": {
    "price": 80.26,
